@@ -30,7 +30,7 @@ The platform is a Student registration platform. The user can enter the details 
 ![image](https://user-images.githubusercontent.com/80119277/217295999-53ce2138-531a-4aec-a15a-4901c66e99e3.png)
 ![image](https://user-images.githubusercontent.com/80119277/217296263-96053b8f-559d-47f6-8c91-72ee58fbe24c.png)
 
-**If the Roll Number exist in database:**
+**If the Roll Number exists in database:**
 
 ![image](https://user-images.githubusercontent.com/80119277/217296539-cd26215e-c143-47ef-b600-587113994192.png)
 
