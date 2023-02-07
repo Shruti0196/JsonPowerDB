@@ -13,8 +13,11 @@ The platform is a Student registration platform. The user can enter the details 
 **Default page:**
 
 ![image](https://user-images.githubusercontent.com/80119277/217292065-7fe3a5f9-0e38-414b-ae56-6a50192388e7.png)
-Initial database is empty
-If the Roll Number does not exist in the database:
+
+**Initial database is empty**
+
+**If the Roll Number does not exist in the database:**
+
 ![image](https://user-images.githubusercontent.com/80119277/217293068-d7919cdf-43ab-4d76-834b-2e8015ce6429.png)
 On trying to save invalid data:
 ![image](https://user-images.githubusercontent.com/80119277/217293740-dc413d57-fc6f-4a54-b492-74a0a0034153.png)
