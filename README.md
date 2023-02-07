@@ -37,7 +37,7 @@ The platform is a Student registration platform. The user can enter the details 
 **On trying to update with invalid data:**
 
 ![image](https://user-images.githubusercontent.com/80119277/217296722-33eada7d-a42b-46d1-bdfe-7050764434cd.png)
-![image](https://user-images.githubusercontent.com/80119277/217297304-b7b0dcbb-b7e0-4e12-916c-07d9f2a41a7b.png)
+![image](https://user-images.githubusercontent.com/80119277/217300389-1397e820-39b5-4eff-8fd5-bda5c2ee16b7.png)
 
 **Updating valid data:**
 
