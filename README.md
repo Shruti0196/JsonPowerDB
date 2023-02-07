@@ -10,7 +10,7 @@ The platform is a Student registration platform. The user can enter the details 
    - Complete student registration platform
    
 ## Walkthrough of the project:
-**Default page:
+**Default page:**
 
 ![image](https://user-images.githubusercontent.com/80119277/217292065-7fe3a5f9-0e38-414b-ae56-6a50192388e7.png)
 Initial database is empty
