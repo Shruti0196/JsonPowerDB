@@ -19,23 +19,38 @@ The platform is a Student registration platform. The user can enter the details 
 **If the Roll Number does not exist in the database:**
 
 ![image](https://user-images.githubusercontent.com/80119277/217293068-d7919cdf-43ab-4d76-834b-2e8015ce6429.png)
-On trying to save invalid data:
+
+**On trying to save invalid data:**
+
 ![image](https://user-images.githubusercontent.com/80119277/217293740-dc413d57-fc6f-4a54-b492-74a0a0034153.png)
 ![image](https://user-images.githubusercontent.com/80119277/217295752-423b84c6-03db-4ac1-8e91-4f0a29479546.png)
-Saving valid data:
+
+**Saving valid data:**
+
 ![image](https://user-images.githubusercontent.com/80119277/217295999-53ce2138-531a-4aec-a15a-4901c66e99e3.png)
 ![image](https://user-images.githubusercontent.com/80119277/217296263-96053b8f-559d-47f6-8c91-72ee58fbe24c.png)
-If the Roll Number exist in database:
+
+**If the Roll Number exist in database:**
+
 ![image](https://user-images.githubusercontent.com/80119277/217296539-cd26215e-c143-47ef-b600-587113994192.png)
-On trying to update with invalid data:
+
+**On trying to update with invalid data:**
+
 ![image](https://user-images.githubusercontent.com/80119277/217296722-33eada7d-a42b-46d1-bdfe-7050764434cd.png)
 ![image](https://user-images.githubusercontent.com/80119277/217297304-b7b0dcbb-b7e0-4e12-916c-07d9f2a41a7b.png)
-Updating valid data:
+
+**Updating valid data:**
+
 ![image](https://user-images.githubusercontent.com/80119277/217297586-d4c15b78-a1b9-48e3-96ae-8909b6faeb77.png)
 ![image](https://user-images.githubusercontent.com/80119277/217297859-daa1b57c-4196-48fa-862c-bde3b9b531d7.png)
-On clicking reset:
-Before:
+
+**On clicking reset:**
+
+**Before:**
+
 ![image](https://user-images.githubusercontent.com/80119277/217298077-4152e861-5d13-49e8-8376-e593ec2820a6.png)
-After:
+
+**After:**
+
 ![image](https://user-images.githubusercontent.com/80119277/217298182-10caf5d7-97c5-4fa1-9182-29f2b7afc1be.png)
 
